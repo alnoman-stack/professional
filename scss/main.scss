@@ -1,0 +1,24 @@
+@forward "./nav/navbar.scss";
+@forward "./footer/footer.scss";
+@forward "./hero/hero.scss";
+@forward "./feature/feature.scss";
+@forward "./carousel/carousel.scss";
+@forward "./asd/asd.scss";
+@forward "./space/space.scss";
+@forward "./pricing/pricing.scss";
+@forward "./contact/contact.scss";
+@forward "./download/download.scss";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.extra-margin {
+  margin-top: 80px;
+}
+
+.img {
+  width: 50px;
+}
